@@ -1,0 +1,2 @@
+include ':app', ':wifiplugin'
+rootProject.name='WIfiInfoAndroid'

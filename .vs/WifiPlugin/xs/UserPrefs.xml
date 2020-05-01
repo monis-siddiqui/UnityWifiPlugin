@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{BD5CBE5C-0624-BB4F-119C-6AE133686F08}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/WifiInfoHandler.cs">
+    <Files>
+      <File FileName="Assets/Scripts/WifiInfoHandler.cs" Line="28" Column="51" />
+      <File FileName="Assets/Plugins/IOS/SwiftPlugin/Source/SwiftForUnity.cs" Line="54" Column="1" />
+      <File FileName="Assets/Plugins/IOS/SwiftPlugin/Editor/SwiftPostProcess.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0f7ab355-ebca-4f15-a4fd-6a7c64e1ce48" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
